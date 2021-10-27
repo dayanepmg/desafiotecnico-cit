@@ -12,5 +12,5 @@
 2 - Com o VSCode aberto na pasta desafiotecnico-cit, abrir o terminal e digitar: npm install<br>
 3 - Após instalação das dependencias digitar: npm run cypress:open<br>
 4 - Recortar e colar o arquivo: #hotel_room_reservation.spec.js# na pasta cypress=>integration<br>
-5 - Copiar a linha: require('cypress-xpath') no arquivo: cypress=>suport=>index.js <br>
+5 - Copiar a linha: #require('cypress-xpath')# no arquivo: cypress=>suport=>index.js <br>
 6 - No painel aberto do cypress, executar o teste contido no arquivo #hotel_room_reservation.spec.js# clicando sobre ele.<br>
